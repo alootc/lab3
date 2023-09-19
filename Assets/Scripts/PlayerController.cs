@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
-        onPlayerDamage = TakeDamage;
+        //onPlayerDamage = TakeDamage;
     }
 
     
